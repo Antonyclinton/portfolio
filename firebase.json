@@ -11,6 +11,10 @@
         "source": "**",
         "destination": "/index.html"
       }
-    ]
+    ],
+    "github": {
+      "repo": "https://github.com/Antonyclinton/portfolio",
+      "branch": "main" 
+    }
   }
 }
